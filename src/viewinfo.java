@@ -113,10 +113,6 @@ public class viewinfo {
         } else
             System.out.println("无权访问");
     }
-
-    public static void main(String[] args) {
-        System.out.println("helloword");
-    }
 }
 
 
