@@ -111,7 +111,7 @@ public class viewinfo {
             }
             br.close();
         } else
-            System.out.println("无权访g");
+            System.out.println("无权访问");
     }
 
     public static void main(String[] args) {
