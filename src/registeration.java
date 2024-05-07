@@ -72,7 +72,6 @@ public class registeration {
             System.out.println("密钥错误，注册进程结束。");
             System.exit(0); // 密钥错误，结束程序
         }
-        System.out.println("密钥正确，继续注册流程...");
     }
 }
 
