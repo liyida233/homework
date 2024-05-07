@@ -117,7 +117,7 @@ public class viewinfo {
     public static void main(String[] args) {
         System.out.println("helloworld");
         System.out.println("final version");
-        System.out.println("push test");
+        System.out.println("pull test");
     }
 }
 
